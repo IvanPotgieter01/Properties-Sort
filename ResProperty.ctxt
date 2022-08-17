@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ResProperty
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ResProperty\ here.\r\n\r\n\ @author\ (Ivan\ Potgieter\ -\ 37435558)\r\n\ @version\ (16/04/2022)\r\n
+comment1.params=
+comment1.target=ResProperty()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=type\ name\ contactNum\ duration\ typeRes\ bedR\ bathR
+comment2.target=ResProperty(char,\ java.lang.String,\ java.lang.String,\ int,\ char,\ int,\ int)
+comment3.params=
+comment3.target=char\ getTypeRes()
+comment4.params=
+comment4.target=int\ getBedR()
+comment5.params=
+comment5.target=int\ getBathR()
+comment6.params=typeRes
+comment6.target=void\ setTypeRes(char)
+comment7.params=bedR
+comment7.target=void\ setBedR(int)
+comment8.params=bathR
+comment8.target=void\ setBathR(int)
+comment9.params=
+comment9.target=double\ calcMonthRent()
+numComments=11

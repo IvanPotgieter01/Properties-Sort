@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=testProperty
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arrProperties
+comment2.target=void\ displayResidential(java.util.ArrayList)
+comment3.params=arrProperties
+comment3.target=void\ displayBusiness(java.util.ArrayList)
+numComments=4
